@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS tool with Alfred for macOS exclusive Tool: network-speed & OCR-support. Featuring network-speed and OCR-support, it's the best choice for macOS
 
 
 
